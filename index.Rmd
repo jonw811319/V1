@@ -1,0 +1,17 @@
+--- 
+title: "PROYECTO DE SERIES DE TIEMPO"
+author: "JOHN WILMAR VARGAS - SEBASTIAN BOLIVAR- KEYNER MARTINEZ"
+date: ""
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "ENTREGA 1"
+---
+
+# PRIMERA ENTREGA
+
+SE BUSCA UNA BASE DE DATOS QUE CUMPLA CON LAS CONDICIONES DEL CURSO 
