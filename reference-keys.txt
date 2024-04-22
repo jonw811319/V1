@@ -1,0 +1,17 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+literature
+methods
+math-example
+applications
+example-one
+example-two
+final-words
+primera-entrega
+introduction-entrega-1
+entrega-1
+busqueda-de-la-base-de-datos
+busqueda-de-la-base-de-datos-para-la-activadad-de-la-materia-de-series-de-tiempo
+busqueda-de-la-base-de-datos-para-la-activadad-de-la-materia-de-series-de-tiempo.
